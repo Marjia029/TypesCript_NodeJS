@@ -1,0 +1,48 @@
+{
+  "title": "Luxury Oceanfront Hotel Without Image Field after required",
+  "description": "A stunning oceanfront hotel with amazing amenities and breathtaking views.",
+  "guestCount": 500,
+  "bedroomCount": 50,
+  "bathroomCount": 30,
+  "amenities": [
+    "Free Wi-Fi",
+    "Swimming Pool",
+    "Fitness Center",
+    "Restaurant"
+  ],
+  "hostInfo": "Managed by Oceanfront Hospitality",
+  "address": "123 Ocean Drive, Miami Beach, FL 33139",
+  "latitude": 25.7617,
+  "longitude": -80.1918,
+  "rooms": [
+    {
+      "hotelSlug": "luxury-oceanfront-hotel",
+      "roomSlug": "room-101",
+      "roomImage": "/roomImages/1731570181587-256362056-hotel1.jpeg",
+      "roomTitle": "Ocean View Suite",
+      "bedroomCount": 1
+    },
+    {
+      "hotelSlug": "luxury-oceanfront-hotel",
+      "roomSlug": "room-102",
+      "roomImage": "",
+      "roomTitle": "Beachfront King Room",
+      "bedroomCount": 1
+    },
+    {
+      "hotelSlug": "luxury-oceanfront-hotel",
+      "roomSlug": "room-103",
+      "roomImage": "",
+      "roomTitle": "Penthouse Suite",
+      "bedroomCount": 2
+    }
+  ],
+  "id": 1,
+  "images": [
+    "http://localhost:3000/images/1731488288729-hotel1.jpeg",
+    "http://localhost:5000/images/1731570247373-hotel1.jpeg",
+    "/images/1731570488051-246955196.jpeg",
+    "/images/1731578786883-482388354.jpeg"
+  ],
+  "slug": "luxury-oceanfront-hotel-without-image-field-after-required"
+}
